@@ -77,10 +77,10 @@ analytics:
 author:
   name             : "Sean McLaughlin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Sean McLaughlin is a graduate student in cosmology at Stanford, who also has interest in statistics, cycling, beer, and Chicago sports fatalism."
   location         : "Palo Alto, CA"
   employer         : Stanford University
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : swmclau2@stanford.edu
   uri              :
   bitbucket        :
@@ -89,19 +89,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mclaughlin6464"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "seanwmclaughlin"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "mclaughlin6464"
   vine             :
   weibo            :
   xing             :
