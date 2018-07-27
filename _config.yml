@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sean McLaughlin"
 title_separator          : "-"
 name                     : &name "Sean McLaughlin"
-description              : &description "Poop"
+description              : &description "Sean McLaughlin is a graduate student in cosmology at Stanford, who also has interest in statistics, cycling, beer, and Chicago sports fatalism."
 url                      : https://mclaughlin6464.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mclaughlin6464/mclaughlin6464.github.io"
@@ -56,11 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username               : &mclaughlin6464
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -79,13 +75,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sean McLaughlin"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  location         : "Palo Alto, CA"
+  employer         : Stanford University
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : swmclau2@stanford.edu
   uri              :
   bitbucket        :
   codepen          :
